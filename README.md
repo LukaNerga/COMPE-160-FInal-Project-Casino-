@@ -11,8 +11,6 @@ A terminal-based casino simulation in C with Slots, Roulette, and Aviator.
 1. Compile with `gcc main.c -o casino`
 2. Run `./casino`
 
-## Screenshot
-![Game Screenshot](screenshots/demo.png)
 
 
 ## Game Logic (Pseudocode)
